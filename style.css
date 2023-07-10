@@ -1,0 +1,65 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	height: 100vh;
+	display: flex;
+}
+
+.column {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.column h2 {
+	padding: 10px;
+	color: white;
+	border-radius: 10px;
+	transition: background 0.3s;
+}
+
+.column h2:hover {
+	background: rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+.column button {
+	outline: none;
+	border: none;
+	background: transparent;
+	font-size: 1.5rem;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.column button:hover {
+	background: rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+.popup {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 1.2rem;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 10px;
+	background-color: #000000;
+	border-radius: 5px;
+	opacity: 0;
+	transition: opacity 0.5s ease-in-out;
+}
+
+.fade-out {
+	opacity: 10;
+}

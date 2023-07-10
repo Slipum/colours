@@ -20,7 +20,7 @@ Colours is a simple web application that generates random colors and allows you 
 
 ## How to Use
 
-1. Visit the [Colours GitHub repository](https://github.com/your-username/colours) and clone the project to your local machine.
+1. Visit the [Colours GitHub repository](https://github.com/Slipum/colours) and clone the project to your local machine.
 2. Open the `index.html` file in your web browser.
 3. The page will display a grid of color boxes, each containing a color value and a lock icon.
 4. Click the "Text" button or press the spacebar key to generate random colors for the unlocked boxes.

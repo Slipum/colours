@@ -31,7 +31,7 @@ Colours is a simple web application that generates random colors and allows you 
 
 ## Contributions
 
-Contributions to the Colours project are welcome. If you find any bugs, have feature suggestions, or would like to contribute enhancements, please feel free to open an issue or submit a pull request on the [Colours GitHub repository](https://github.com/your-username/colours).
+Contributions to the Colours project are welcome. If you find any bugs, have feature suggestions, or would like to contribute enhancements, please feel free to open an issue or submit a pull request on the [Colours GitHub repository](https://github.com/Slipum/colours).
 
 ## License
 
